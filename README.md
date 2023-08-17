@@ -16,13 +16,15 @@ A Megaline arredonda segundos para minutos, e megabytes para gigabytes. Para cha
   * 1 mensagem de texto: 3 centavos
   * 1 GB de dados: $10
 
-Ultimate
-Preço mensal: $70
-3000 minutos mensais, 1000 mensagens de texto, e 30 GB de dados
-Depois de exceder os limites do pacote:
-1 minuto: 1 centavo
-1 mensagem de texto: 1 centavo
-1 GB de dados: $7
+### Ultimate
+1. Preço mensal: $70
+2. 3000 minutos mensais, 1000 mensagens de texto, e 30 GB de dados
+3. Depois de exceder os limites do pacote:
+ ** 1 minuto: 1 centavo
+ ** 1 mensagem de texto: 1 centavo
+ ** 1 GB de dados: $7
+
+
 Instruções para completar o projeto
 Passo 1. Abra o arquivo de dados e estude as informações gerais
 
